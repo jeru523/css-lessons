@@ -1,0 +1,3 @@
+
+open fee structure
+
